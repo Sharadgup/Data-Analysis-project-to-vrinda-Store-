@@ -1,0 +1,16 @@
+vrinda store data analyst project it create by sharad Gupta
+
+objective-: virnda store wants to create an annual salas report for 2022.so that,vrinda can understand their customers and grow more salas in 2023.
+
+requirment for sample question using data analyst 
+1)Compare the salas and orders using single chart.
+2)which month got the highest salas and orders.
+3)who purchased more-men or women in 2022.
+4)what are differnet order status in 2022.
+5)List top 10 states contributing to the sales.
+6)Relation between age and gender based on number salas.
+7)which channel is contributing to maximum salas.
+8)Highest selling category.
+
+formale for age group-:
+=IF(T2>=50,"Senior",IF(T2>=30,"Adult","Teenager"))
